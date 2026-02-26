@@ -14,7 +14,7 @@ public class ConflictProneService {
         // BEGIN FEATURE_SECTION
         // NOTE: Cada rama feature/dev1..dev6 debe editar la siguiente lÃ­nea
         // EDIT HERE (feature/devX): cambia el mensaje para tu feature
-        return "BASE MESSAGE - change me in your feature branch";
+        return "Feature DEV2: optimiza validación de credenciales";
         // END FEATURE_SECTION
     }
 }
